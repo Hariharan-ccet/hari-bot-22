@@ -1,0 +1,7 @@
+{
+  "name": "Hari Bot: Modern College Assistant",
+  "description": "A sophisticated college chatbot rebuild using React, Tailwind CSS, and Gemini AI, transforming legacy NLP architectures into modern AI-driven conversational interfaces.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
